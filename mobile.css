@@ -1,0 +1,30 @@
+
+@media screen and (max-width: 600px) {
+
+    header {
+        padding: 15px;
+    }
+
+    nav {
+        padding: 10px;
+    }
+
+    nav a {
+        display: block;
+        margin: 10px;
+    }
+
+    section {
+        margin: 10px;
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    h2 {
+        font-size: 22px;
+    }
+
+}
